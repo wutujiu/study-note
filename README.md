@@ -16,7 +16,16 @@
 
 5. TODO......!^_^
 
-
+## 科学上网
+  科学上网是在国内了解前沿学术动态不可或缺的途径，我给大家推荐我自己常用的科学上网软件及配置方法：
+  - 科学上网基本分两种方式，一种是某些公司的成品VPN app 但我不推荐，其价格比较贵，网速比较差，也不是很安全。
+  - 我推荐的是使用翻墙工具加机场节点的方式实现科学上网
+  - 机场推荐[MESL](https://in.mesl.cloud/#/register?code=j8NJwVyg)其价格大概是14元每月，240每年，不推荐免费节点和免费VPN
+  - 有了机场节点以后就是翻墙工具，翻墙工具在不同的设备上有不同的使用方法，IOS设备（iPhone，mac）推荐使用Shadowrocket,使用美区账号下载安装导入上一步的节点即可；win和安卓设备推荐使用Clash或者圈X
+  - 具体使用教程参考[MESL官方教程](https://in.mesl.cloud/#/stage/knowledge)
+  
+  other:
+  为了自身安全及规避法律风险，科学上网方法仅可用于学术途径，勿作他用。建议大家进行一系列外网操作时使用谷歌账号或outlook账号，尽量避免使用境内邮箱。
 
 
 
@@ -249,11 +258,6 @@
 
 
 
-## Other
-
-- [科学上网](https://github.com/shadowsocks/shadowsocks-windows)：一个程序员咋能不会科学上网捏，国内的程序员论坛实在是不敢恭维。这里推荐一个比较不错的，至于怎么用，请自己去学习吧^_^。
-- 一些拥有slam相关业务并且表现不错的[公司](./something_else/Company.md)
-
 
 
 
@@ -262,6 +266,7 @@
 
 [@HanLin](https://github.com/hanlin-cheng)
 
+[@Kikoo](https://github.com/wutujiu)
 > *关山难越，谁悲失路之人。萍水相逢，尽是他乡之客。*
 
 
